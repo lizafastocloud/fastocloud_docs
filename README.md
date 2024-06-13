@@ -162,3 +162,23 @@ As LG and Samsung continue to gain global recognition, we're right there with th
 
 
 ![CCTV](https://github.com/fastogt/fastocloud_docs/blob/main/images/cctv/cctv.png?raw=true)
+
+
+
+## **𝗩𝗲𝗻𝗼𝗺𝗢𝗧𝗧 - 𝗠𝗼𝗯𝗶𝗹𝗲-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗟𝗮𝘆𝗼𝘂𝘁**
+
+We’re excited to introduce the mobile version of our White Label VenomOTT layout. Now, your users can enjoy their favorite shows and movies with a sleek, user-friendly interface, optimized for smartphones and tablets.
+
+### **🚀 𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝘁𝗵𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗼𝗳 𝗩𝗲𝗻𝗼𝗺𝗢𝗧𝗧 𝗠𝗼𝗯𝗶𝗹𝗲:**
+- **𝗦𝗲𝗮𝗿𝗰𝗵:** Quickly find your favorite movies, shows, and channels.  
+- **𝗛𝗼𝗺𝗲:** Access featured content, personalized recommendations, and recently viewed shows all in one place. 
+- **𝗟𝗶𝘃𝗲 𝗧𝗩:** From news and sports to entertainment and kids’ programming, Live TV feature brings real-time viewing directly to your device, wherever you are.
+- **𝗙𝗶𝗹𝗺𝘀:** An extensive collection of movies across genres. 
+- **𝗙𝗮𝘃𝗼𝗿𝗶𝘁𝗲:** Easily add movies, shows, and channels to your Favorites list for quick access and personalized viewing.
+- **𝗦𝗲𝘁𝘁𝗶𝗻𝗴𝘀:** Manage your account, adjust playback settings, ensuring VenomOTT fits your preferences perfectly.
+
+
+📌 𝗕𝗼𝗼𝗸 𝗮 𝗰𝗮𝗹𝗹 𝘄𝗶𝘁𝗵 𝘂𝘀: https://calendly.com/atopilski/15min?month=2024-06?utm_source=github&utm_campaign=venomott&utm_medium=link
+📌 𝗢𝘂𝗿 𝗟𝗮𝘆𝗼𝘂𝘁𝘀: https://crocott.com/pricing.html?utm_source=github&utm_campaign=venomott&utm_medium=link
+
+![VenomOTT]https://github.com/fastogt/fastocloud_docs/blob/main/images/ott/ven.png?raw=true
