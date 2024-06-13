@@ -179,6 +179,7 @@ We’re excited to introduce the mobile version of our White Label VenomOTT layo
 
 
 📌 𝗕𝗼𝗼𝗸 𝗮 𝗰𝗮𝗹𝗹 𝘄𝗶𝘁𝗵 𝘂𝘀: https://calendly.com/atopilski/15min?month=2024-06?utm_source=github&utm_campaign=venomott&utm_medium=link
+
 📌 𝗢𝘂𝗿 𝗟𝗮𝘆𝗼𝘂𝘁𝘀: https://crocott.com/pricing.html?utm_source=github&utm_campaign=venomott&utm_medium=link
 
-![VenomOTT]https://github.com/fastogt/fastocloud_docs/blob/main/images/ott/ven.png?raw=true
+![VenomOTT](https://github.com/fastogt/fastocloud_docs/blob/main/images/ott/ven.png?raw=true)
